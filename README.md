@@ -38,7 +38,7 @@ In this project we created an ETL pipreline to transform the data from the `crow
     ```
 
 ## ERD
-!["ERD"](Resources/ERD.png)
+!["ERD"](https://github.com/Angelinamurdock/Project_2/blob/main/Starter_Files/Resources/ERD.png)
 
 ## Methodology
 - **Python and Pandas**: Used to extract and transform the data into DataFrames which were then exported into CSV files.
