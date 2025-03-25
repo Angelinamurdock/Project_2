@@ -3,7 +3,7 @@
 <br> **Date**: March 2025
 
 ## Overview
-In this project we created an ETL pipreline to transform the data from the `crowdfunding.xlsx` sheet and the `contacts.xlsx` sheet. 
+In this project we created an ETL pipeline to transform the data from the `crowdfunding.xlsx` sheet and the `contacts.xlsx` sheet. 
 
 ## Table of contents
 - [Overview](#overview)
